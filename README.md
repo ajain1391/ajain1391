@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajain1391
 - 👀 I’m interested in learning software programming and graphic designing
-- 🌱 I’m currently learning python and photoshop
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ... these softares as a group, honestly i just want to learn more...
 - 📫 How to reach me ... my mail id is akshatjain1391@gmail.com
 
