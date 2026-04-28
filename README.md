@@ -79,5 +79,5 @@ A full-stack application with:
 
 ## Connect
 
-GitHub: https://github.com/ajain1391  
+Email: akshatjain1391@gmail.com
 LinkedIn: https://linkedin.com/in/akshat-j-a9a66628a
